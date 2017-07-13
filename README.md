@@ -6,7 +6,7 @@ the system allow a user to:
   2- Remove folders and files.
   3- List files, their size, creation dates.
   4- Measure the throughput of the copying operations.
-the project cosist of number of classes 
+the project consist of number of classes 
   1- File class : used to read and write data to the VFS all the other classes write in the VFS file using this class.
   2- FAT class : used to put the files and folders in a tree to make it easy to go throw the files, change the current
     working directory , list the files and so on.
