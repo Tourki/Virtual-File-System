@@ -24,12 +24,12 @@ the project consist of number of classes
   10- othe data structure classes used in the above classes and files like Linkec list , queue and stack.
   
  the system provide the following commands:
-  1- "cp -i sources distination " : copy files and directories TO VFS.
-  2- "cp -o sources distination " : copy files and directories FROM VFS.
-  3- "cp    sources distination " : copy files and directories inside the VFS.
-  4- "mv -i sources distination " : move files and directories TO VFS.
-  5- "mv -o sources distination " : move files and directories FROM VFS.
-  6- "mv    sources distination " : move files and directory inside the VFS.
+  1- "cp -i sources destination " : copy files and directories TO VFS.
+  2- "cp -o sources destination " : copy files and directories FROM VFS.
+  3- "cp    sources destination " : copy files and directories inside the VFS.
+  4- "mv -i sources destination " : move files and directories TO VFS.
+  5- "mv -o sources destination " : move files and directories FROM VFS.
+  6- "mv    sources destination " : move files and directory inside the VFS.
   7- "rm    targets             " : remove files and directories.
   8- "cd    target              " : change the current directory to the target directory.
   9- "ls    target              " : list my current directory files and directories.
